@@ -14,10 +14,6 @@ $ git clone https://github.com/Charawey-X/The-Maze.git
 ```
 ## Usage
 
-https://user-images.githubusercontent.com/97659092/205112521-5ea38f16-d518-4273-adbd-b2e971504179.mp4
-
-
- 
 * Execute ./maze or type make run 
 * Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
 * Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
@@ -33,7 +29,8 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 ![The Maze Flow Chart](FlowChart.png)
 
 ## Demo
-[![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](Demo.mp4)
+
+https://user-images.githubusercontent.com/97659092/205112521-5ea38f16-d518-4273-adbd-b2e971504179.mp4
 
 ## Author
  - Charawey-X
