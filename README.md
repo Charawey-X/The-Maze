@@ -13,6 +13,10 @@ Simple DirectMedia Layer is a cross-platform development library designed to pro
 $ git clone https://github.com/Charawey-X/The-Maze.git
 ```
 ## Usage
+
+https://user-images.githubusercontent.com/97659092/205112521-5ea38f16-d518-4273-adbd-b2e971504179.mp4
+
+
  
 * Execute ./maze or type make run 
 * Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
